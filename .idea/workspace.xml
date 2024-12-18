@@ -5,7 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c15bfe0-8c4d-4972-9a48-b5435693fa55" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Server/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Server/src/main/java/org/example/configservice/ConfigServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-Server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-repo/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-repo/donationMS.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-repo/organisationMS-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config-repo/userMS.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/DonationMsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/controllers/DonationRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/entities/Donation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/models/Organisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/repos/DonationRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/service/OrganisationRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/service/UserRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/test/java/com/example/donationms/DonationMsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donationMS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-discovery" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-discovery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organisationMS" beforeDir="false" afterPath="$PROJECT_DIR$/organisationMS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userMS" beforeDir="false" afterPath="$PROJECT_DIR$/userMS" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +60,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Config-Server" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -47,13 +87,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-22&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/5IIR/JEE/Project2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/5IIR/JEE/Project/donationMS/src/main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;spring.boot.initializr&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -62,18 +102,49 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\donationMS\src\main\java\com\example\donationms" />
-      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\gateway-service\src\main\resources" />
-      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\organisationMS\src\main\java\com\example\organisationms" />
-      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\userMS\src\main\resources" />
-      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\userMS\src\main\java\com\example\userms" />
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\donationMS\src\main" />
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\userMS\src\main" />
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\organisationMS\src\main" />
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\gateway-service\src\main" />
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\eureka-discovery\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\donationMS\src\main\java\com" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.DonationMsApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
+    <configuration name="ConfigServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Config-Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Config-Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Config-Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.configservice.ConfigServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DonationMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="donationMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.donationms.DonationMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaDiscoveryApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.eurekadiscovery.EurekaDiscoveryApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,9 +156,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GatewayServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="gateway-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrganisationMsApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="organisationMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.organisationms.OrganisationMsApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,6 +182,14 @@
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="organisationMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.organisationms.OrganisationMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMsApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="userMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.userms.UserMsApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,7 +213,27 @@
       <updated>1732034569002</updated>
       <workItem from="1732034570084" duration="4198000" />
       <workItem from="1732107123291" duration="1348000" />
-      <workItem from="1732109486144" duration="302000" />
+      <workItem from="1732109486144" duration="1194000" />
+      <workItem from="1732130907577" duration="214000" />
+      <workItem from="1732131497812" duration="70000" />
+      <workItem from="1732271601959" duration="953000" />
+      <workItem from="1732698709704" duration="515000" />
+      <workItem from="1732703703739" duration="1559000" />
+      <workItem from="1732792404141" duration="1078000" />
+      <workItem from="1732825172815" duration="973000" />
+      <workItem from="1732876067629" duration="2387000" />
+      <workItem from="1733245438647" duration="984000" />
+      <workItem from="1733419220293" duration="164000" />
+      <workItem from="1734077661218" duration="595000" />
+      <workItem from="1734434300967" duration="666000" />
+      <workItem from="1734439599070" duration="530000" />
+      <workItem from="1734440169160" duration="296000" />
+      <workItem from="1734440494639" duration="372000" />
+      <workItem from="1734440897031" duration="237000" />
+      <workItem from="1734441386053" duration="853000" />
+      <workItem from="1734453693129" duration="9625000" />
+      <workItem from="1734467520944" duration="5260000" />
+      <workItem from="1734506396358" duration="1421000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -145,7 +259,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732107758430</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1732109796350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732109796350</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1732110000099</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732110000099</updated>
+    </task>
+    <task id="LOCAL-00006" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1732110063644</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732110063644</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +308,14 @@
       <path value="$PROJECT_DIR$/organisationMS" />
       <path value="$PROJECT_DIR$/userMS" />
     </ignored-roots>
+    <MESSAGE value="git add ." />
+    <MESSAGE value="git commit -a" />
+    <MESSAGE value="initial commi" />
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
