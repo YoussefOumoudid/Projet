@@ -205,7 +205,11 @@
       <workItem from="1734441386053" duration="853000" />
       <workItem from="1734453693129" duration="9625000" />
       <workItem from="1734467520944" duration="5260000" />
+<<<<<<< HEAD
       <workItem from="1734506396358" duration="5800000" />
+=======
+      <workItem from="1734506396358" duration="3214000" />
+>>>>>>> eaf58cdababb921050aa4d40845bc45361a8b2cf
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -303,6 +307,7 @@
       <option name="project" value="LOCAL" />
       <updated>1734508415667</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
       <created>1734509991965</created>
@@ -320,6 +325,9 @@
       <updated>1734510087511</updated>
     </task>
     <option name="localTasksCounter" value="15" />
+=======
+    <option name="localTasksCounter" value="13" />
+>>>>>>> eaf58cdababb921050aa4d40845bc45361a8b2cf
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
